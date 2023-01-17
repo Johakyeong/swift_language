@@ -1,4 +1,6 @@
 import Foundation
 
-print("test")
+print("first commit")
 
+var a = 1
+print("a: \(a)")
